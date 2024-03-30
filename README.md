@@ -10,7 +10,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 
 
-!["Screenshot"](screenshot.png)
+!["Hotel_Booking_Analysis using python"](Hotel_Booking_Analysis.png)
 
 
 
