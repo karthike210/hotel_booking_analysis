@@ -10,3 +10,8 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 
 
+!["Screenshot"](screenshot.png)
+
+
+
+
